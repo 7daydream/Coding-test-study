@@ -12,3 +12,6 @@ if round(a,2) == 0.9:
     print('true')
 else:
     print('false')
+
+print(round(123.456,2))
+
